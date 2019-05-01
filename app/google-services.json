@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747998521422",
+    "firebase_url": "https://clinichat-3a118.firebaseio.com",
+    "project_id": "clinichat-3a118",
+    "storage_bucket": "clinichat-3a118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747998521422:android:e07f5656a1a6656f",
+        "android_client_info": {
+          "package_name": "com.sany.clinichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747998521422-qjct184o4bk04oaerl8u65qtn7ffa68r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sany.clinichat",
+            "certificate_hash": "08a9a31fa1684a56834b6b5bfc8dce2d197e28db"
+          }
+        },
+        {
+          "client_id": "747998521422-oqpgtkv0n8r68ba89ised2dl23k7a672.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEJGeR1AStV3YAYij73r6_fec_IL7TSNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747998521422-oqpgtkv0n8r68ba89ised2dl23k7a672.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
