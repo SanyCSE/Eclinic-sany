@@ -19,6 +19,18 @@ INSTALLATION
 <br>2.	Find All Apps icon.
 <br>3.	Touch the individual app you wish to manage or find installed eclinic app.
 <br>4.	Touch Permissions. You’ll then see a list of the permissions that you can toggle on or off.
- 
+
+![Login & Registration](Images/login.jpg)
+
+![Login & Registration](Images/reset pass.png)
+
+![Login & Registration](Images/user.jpg)
+
+![Login & Registration](Images/doc profile.jpg)
+
+![Login & Registration](Images/calling.png)
+
+![Login & Registration](Images/Tips & about.png)
+
 <br>Thats all, Thank you. If you like this apps which is free, Opensource and have no ads, please consider supporting us in some way. It will be hugely appreciated.
 
