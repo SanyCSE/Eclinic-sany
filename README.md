@@ -22,15 +22,15 @@ INSTALLATION
 
 ![Login & Registration](Images/login.jpg)
 
-![Login & Registration](Images/reset pass.png)
+![Login & Registration](Images/reset_pass.png)
 
 ![Login & Registration](Images/user.jpg)
 
-![Login & Registration](Images/doc profile.jpg)
+![Login & Registration](Images/doc_profile.jpg)
 
 ![Login & Registration](Images/calling.png)
 
-![Login & Registration](Images/Tips & about.png)
+![Login & Registration](Images/tips.png)
 
 <br>Thats all, Thank you. If you like this apps which is free, Opensource and have no ads, please consider supporting us in some way. It will be hugely appreciated.
 
